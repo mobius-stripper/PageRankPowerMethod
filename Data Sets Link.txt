@@ -1,0 +1,8 @@
+wiki-Vote :-
+https://www.cise.ufl.edu/research/sparse/matrices/SNAP/wiki-Vote.html
+
+soc-Epinions1 :-
+https://www.cise.ufl.edu/research/sparse/matrices/SNAP/soc-Epinions1.html
+
+soc-LiveJournal1 :-
+https://www.cise.ufl.edu/research/sparse/matrices/SNAP/soc-LiveJournal1.html
